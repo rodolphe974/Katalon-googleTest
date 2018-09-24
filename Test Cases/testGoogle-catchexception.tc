@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testGoogle-catchexception</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01dd310a-c9b6-4255-8b64-79487d3dd772</testCaseGuid>
+   <variable>
+      <defaultValue>'France'</defaultValue>
+      <description></description>
+      <id>268674c8-855a-4c32-b9f6-f62b2aefe251</id>
+      <masked>false</masked>
+      <name>SearchText</name>
+   </variable>
+   <variable>
+      <defaultValue>'République française - France — Wikipédia'</defaultValue>
+      <description></description>
+      <id>fb35be63-72ce-4616-bb75-c79282a8e071</id>
+      <masked>false</masked>
+      <name>ExpectResult</name>
+   </variable>
+</TestCaseEntity>

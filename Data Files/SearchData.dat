@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SearchData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c4b67c2a-667b-42e9-8f2c-eddff3c9d552</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>France R%C3%A9publique+fran%C3%A7aise+-+France+%E2%80%94+Wikip%C3%A9dia</data>
+   <data>france+superficie Superficie+de+la+France+%E2%80%94+Wikip%C3%A9dia</data>
+   <data>Iceland Iseland+-+Wikipedia</data>
+   <data>marshmallow marshmallow+%E2%80%94+Wiktionnaire</data>
+   <data>Paradoxe+de+Fermi Paradoxe+de+Fermi+%E2%80%94+Wikip%C3%A9dia</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>SearchText</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>ExpectResult</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

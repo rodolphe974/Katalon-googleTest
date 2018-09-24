@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suite_catch</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-09-24T10:36:18</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>f9401a93-4c1b-4e04-8185-0bc7bb33d4a7</testSuiteGuid>
+   <testCaseLink>
+      <guid>4f9ca3f8-0a5a-4308-8cd2-2e5e70e856fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/testGoogle-catchexception</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e029448d-f426-4e99-bfe2-210888d6637a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SearchData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e029448d-f426-4e99-bfe2-210888d6637a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SearchText</value>
+         <variableId>268674c8-855a-4c32-b9f6-f62b2aefe251</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e029448d-f426-4e99-bfe2-210888d6637a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectResult</value>
+         <variableId>fb35be63-72ce-4616-bb75-c79282a8e071</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
